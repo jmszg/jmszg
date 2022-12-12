@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/jmszg/count.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmszg&layout=compact)](https://github.com/jmszg/github-readme-stats)
+
 
