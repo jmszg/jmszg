@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/jmszg/count.svg)
+# About My Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmszg)](https://github.com/jmszg/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmszg&layout=compact)](https://github.com/jmszg/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&theme=tokyonight)
 
 
