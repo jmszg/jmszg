@@ -16,28 +16,25 @@ Hello, my name is Zgj.  I am a devops engineer with a focus on building and main
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [QC]  
-  
-
-- 🌱 I’m currently learning AI and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 🔭 I’m currently working on **QC**
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+- 👯 Currently working in **Shanghai, China**
 
 
-</td></tr></table>  
+- 🤔 I love **Reading, Photography**
+
+
+- 💬 Ask me about k8s、devops、linux and my projects
+
+
+- 📫 How to reach me: **1243541405@qq.com**
+
+
+- 😄 You may like [My Blog](https://www.xxxx/)
+
+
+- ⚡ Fun fact: **Music, Movie**
 
 <br/>  
 
@@ -79,30 +76,37 @@ Hello, my name is Zgj.  I am a devops engineer with a focus on building and main
 
 <br/>  
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&hide_border=true&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jmszg&hide_border=true&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmszg&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</picture>
+  
 </td><td valign="top" width="50%">
 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
-
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&theme=dark&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jmszg&show_icons=true&hide_border=true" />
+</picture>
 
 </td></tr></table>  
 
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=jmszg&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ 
